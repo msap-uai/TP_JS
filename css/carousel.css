@@ -1,0 +1,59 @@
+.body {
+    min-block-size: 100vh;
+    margin: 0;
+}
+
+@media (min-width: 600px) {
+    .body {
+        min-height: 100vh;
+    }
+}
+
+/*IMAGEN*/
+.carousel-item:before {
+    content:'';
+    position: absolute;
+    z-index: 2;
+    top:0;right:0;bottom:0;left:0;
+    background: rgba(0,0,0,.5);
+    height: 110h;
+}
+
+.carousel-item {
+    position: relative;
+    z-index: 1;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    margin-top: -135px;
+}
+
+/*titulo - parrafo - botones*/
+.content{
+    position: relative;
+    z-index: 3;
+    color: rgb(251, 253, 255);
+    margin-left: 50%;
+    margin-right: 8%;
+    margin-top: 13%;
+    text-align: right;
+}
+
+
+/*botones*/
+.btn1{
+    margin-right: 5px;
+    background-color:transparent;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #eaf2f5;
+}
+.btn2{
+    background-color: rgb(4, 151, 29);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+

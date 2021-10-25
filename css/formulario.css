@@ -1,0 +1,45 @@
+.parrafo2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -3px;
+    font-size: 12px;
+}
+
+.titulo2 {
+    text-align: center;
+    padding-top: -100px;
+}
+
+.parrafo3 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.mb-3 {
+    padding-top: 15px;
+}
+.text-form {
+    display: flex;
+    justify-content: center;
+}
+
+.d-grid {
+    display: flex;
+    justify-content: center;
+}
+/*Botón enviar*/
+.btn-form {
+    background-color: rgba(91, 182, 7, 0.808);
+    border-radius: 4px;
+    border: 1px solid #eaf2f5;
+    color: white;
+    padding: 10px;
+    padding-left:47vh;
+    padding-right: 47vh;
+}

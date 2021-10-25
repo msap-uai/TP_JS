@@ -1,0 +1,53 @@
+
+.row{
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+
+/*botones*/
+.btn-javascript {
+    background-color: rgb(255, 205, 42);
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn-react {
+    background-color: rgb(13, 197, 197);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 5px;   
+}
+
+.parrafo {
+    text-align: center;
+    margin-top: 20px;
+}
+.titulo {
+    text-align: center;
+    margin-top: -15px;
+}
+.btn-negocios {
+    background-color: grey;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 5px;  
+}
+
+.btn-startups {
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 5px;  
+}
+
+

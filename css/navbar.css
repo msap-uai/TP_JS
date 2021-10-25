@@ -1,0 +1,24 @@
+.navbar{
+    position:absolute;
+    z-index: 4;;
+    background-color: #343a40;
+    padding: 100px;
+}
+
+.navbar-brand{
+    color: aliceblue;
+}
+
+a.nav-link{
+    color:rgb(131, 131, 129);
+    
+}
+
+a.nav-link.active{
+    color:rgb(30, 167, 103);
+}
+
+ /* Cambio el color de cuando paso la flechita por el link */
+a.nav-link:hover {color:#c6c6ca} 
+a.navbar-brand:hover{color:#c6c6ca}
+

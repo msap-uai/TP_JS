@@ -1,0 +1,14 @@
+.fecha-lugar {
+    color: white;
+    font-size:12px;
+    padding-top: 30px;
+}
+
+.boton {
+    background-color:transparent;
+    color: white;
+    border-radius: 4px;
+    padding: 7px;
+    border: 1px solid #ffffff;
+    font-size: 13px;
+}
